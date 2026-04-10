@@ -11,13 +11,13 @@
 
 # 👋 Hey, I'm **Allen Sunil**
 
-### `🛡️ Cybersecurity Enthusiast • 💻 Full-Stack Developer • 🧠 Lifelong Learner`
+### `💻 Full-Stack Developer • 🔧 Systems Builder • 🛡️ Exploring Cybersecurity`
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Allen-cyber-techy&style=for-the-badge&color=0e75b6)](https://github.com/Allen-cyber-techy)
 [![GitHub followers](https://img.shields.io/github/followers/Allen-cyber-techy?style=for-the-badge&logo=github&color=181717)](https://github.com/Allen-cyber-techy?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Allen-cyber-techy?style=for-the-badge&logo=github&color=f5c842)](https://github.com/Allen-cyber-techy?tab=repositories)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Secure+%26+Scalable+Systems;Full-Stack+Developer+%7C+Security+Researcher;Turning+Coffee+into+Code+since+forever;Open+Source+Contributor+%26+Tech+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+Systems+Builder;Exploring+Cybersecurity+%26+Secure+Design;Building+Backend+Systems+%26+Game+Servers;Master+the+build%2C+then+secure+it" alt="Typing SVG" />
 
 </div>
 
@@ -27,11 +27,11 @@
 
 ```yaml
 name: Allen Sunil
-role: Full-Stack Developer & Cybersecurity Enthusiast
+role: Full-Stack Developer • Systems Builder • Exploring Cybersecurity
 location: 📍 Mavelikara, India
-currently_working_on: Building secure, scalable web applications
-learning: Advanced threat modeling, cloud-native security
-motto: "Hack to protect, build to last."
+currently_working_on: Backend systems, game server architecture, security fundamentals
+learning: Network analysis, web vulnerabilities, attack simulation
+motto: "Master the build, then secure it."
 fun_fact: I debug in my dreams 🛌💭
 ```
 
@@ -39,14 +39,12 @@ fun_fact: I debug in my dreams 🛌💭
 
 ## 💼 Professional Technical Profile
 
-I specialize in building complex, logic-heavy systems, ranging from automated Discord bots to custom game-engine scripting and full-stack web platforms. 
-
-I collaborate with a group of developers under the name **Codeuxe**. My role as the **Technical Lead** involves managing back-end logic and server deployments for local business websites and custom game-engine scripts.
+I collaborate with a small development group under the name **Codeuxe**, where I primarily handle backend logic and system design for web and game-based projects.
 
 ### 🚀 Key Projects *(Proprietary & Open Source)*
 
-#### 🎮 FiveM / Lua Game Engineering (Codeuxe)
-Architected a complete PvP Practice Server environment using **QB-Core** and **XAMPP/SQL**. *(Source Code Private)*
+#### 🎮 FiveM / Lua Game Engineering
+Architected and developed a PvP Practice Server environment using **QB-Core** and **SQL**, leading the system design and implementation, with collaborative support for testing and debugging.
 *   **Systems Built**: Dynamic Ranking & Leaderboard, Battlepass logic, Clan/Team Battle systems, and custom Deathmatch/Open War game modes.
 *   **UI/UX**: Designed custom NUI (HTML/CSS/JS) interfaces for in-game stores and player stats.
 
@@ -61,6 +59,16 @@ Architected a complete PvP Practice Server environment using **QB-Core** and **X
 > *Verified developer of the handle **g4m3r0fg4m35**.*  
 > *txAdmin Master Account & FiveM Scripting Username: **Gamer_Of_Games***  
 > *Contact: abcgamerofgames1000@gmail.com*
+
+---
+
+## 🎯 Career Direction
+
+My primary goal is to build a career in cybersecurity, with a focus on secure system design and backend infrastructure.
+
+I am currently strengthening my foundation through hands-on development (Discord systems, game server architecture) while actively exploring security concepts such as network analysis, web vulnerabilities, and attack simulation.
+
+> *My approach is to first master how systems are built, and then understand how they can be secured and exploited.*
 
 ---
 
