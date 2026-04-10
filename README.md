@@ -47,6 +47,7 @@ I collaborate with a small development group under the name **Codeuxe**, where I
 Architected and developed a PvP Practice Server environment using **QB-Core** and **SQL**, leading the system design and implementation, with collaborative support for testing and debugging.
 *   **Systems Built**: Dynamic Ranking & Leaderboard, Battlepass logic, Clan/Team Battle systems, and custom Deathmatch/Open War game modes.
 *   **UI/UX**: Designed custom NUI (HTML/CSS/JS) interfaces for in-game stores and player stats.
+*   📄 **Full Documentation**: [![EGOPVP](https://img.shields.io/badge/EGOPVP-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/EGOPVP) *(Source code is private — this repo documents the full project architecture and systems)*
 
 #### 🌐 Full-Stack Web Development
 *   **Live Project**: [carwashroom.com](https://carwashroom.com) – Developed with Team Codeuxe. 
