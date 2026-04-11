@@ -11,13 +11,13 @@
 
 # 👋 Hey, I'm **Allen Sunil**
 
-### `💻 Full-Stack Developer • 🔧 Systems Builder • 🛡️ Exploring Cybersecurity`
+### `💻 Backend-Focused Developer • 🔧 Systems Builder • 🛡️ Exploring Cybersecurity`
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Allen-cyber-techy&style=for-the-badge&color=0e75b6)](https://github.com/Allen-cyber-techy)
 [![GitHub followers](https://img.shields.io/github/followers/Allen-cyber-techy?style=for-the-badge&logo=github&color=181717)](https://github.com/Allen-cyber-techy?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Allen-cyber-techy?style=for-the-badge&logo=github&color=f5c842)](https://github.com/Allen-cyber-techy?tab=repositories)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+Systems+Builder;Exploring+Cybersecurity+%26+Secure+Design;Building+Backend+Systems+%26+Game+Servers;Master+the+build%2C+then+secure+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend-Focused+Developer+%7C+Systems+Builder;Exploring+Cybersecurity+%26+Secure+Design;Building+Backend+Systems+%26+Game+Servers;Master+the+build%2C+then+secure+it" alt="Typing SVG" />
 
 </div>
 
@@ -27,11 +27,10 @@
 
 ```yaml
 name: Allen Sunil
-role: Full-Stack Developer • Systems Builder • Exploring Cybersecurity
+role: Backend-Focused Developer • Systems Builder • Exploring Cybersecurity
 location: 📍 Mavelikara, India
 currently_working_on: Backend systems, game server architecture, security fundamentals
 learning: Network analysis, web vulnerabilities, attack simulation
-motto: "Master the build, then secure it."
 fun_fact: I debug in my dreams 🛌💭
 ```
 
@@ -50,16 +49,13 @@ Architected and developed a PvP Practice Server environment using **QB-Core** an
 *   📄 **Full Documentation**: [![EGOPVP](https://img.shields.io/badge/EGOPVP-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/EGOPVP) *(Source code is private — this repo documents the full project architecture and systems)*
 
 #### 🌐 Full-Stack Web Development
-*   **Live Project**: [carwashroom.com](https://carwashroom.com) – Developed with Team Codeuxe. 
-*   **Discord Automation**: Developed custom moderation and utility bots managing server-side logic and API integrations. 
+*   **Live Project**: [carwashroom.com](https://carwashroom.com) – Developed collaboratively as part of the Codeuxe team.
 
 ### 📊 Technical Arsenal
-**Languages:** Lua, JavaScript, Python, SQL, HTML/CSS  
+**Languages:** JavaScript, Python, Lua, SQL, HTML5, Bash
 **Tools/Environment:** QB-Core, XAMPP, Git, Linux, Vercel, Node.js  
 
-> *Verified developer of the handle **g4m3r0fg4m35**.*  
-> *txAdmin Master Account & FiveM Scripting Username: **Gamer_Of_Games***  
-> *Contact: abcgamerofgames1000@gmail.com*
+> Contact: allen.sunil.3734@gmail.com
 
 ---
 
@@ -67,7 +63,7 @@ Architected and developed a PvP Practice Server environment using **QB-Core** an
 
 My primary goal is to build a career in cybersecurity, with a focus on secure system design and backend infrastructure.
 
-I am currently strengthening my foundation through hands-on development (Discord systems, game server architecture) while actively exploring security concepts such as network analysis, web vulnerabilities, and attack simulation.
+I am currently enrolled in an intensive Cybersecurity and Advanced Development program at Brototype (Module 14/52), where I am building structured knowledge alongside hands-on system development.
 
 > *My approach is to first master how systems are built, and then understand how they can be secured and exploited.*
 
@@ -79,10 +75,9 @@ I am currently strengthening my foundation through hands-on development (Discord
 
 ### 💬 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -222,7 +217,7 @@ I am currently strengthening my foundation through hands-on development (Discord
 
 ### 🔐 Current Focus
 
-I am actively building foundational knowledge in cybersecurity alongside my development work, with a focus on understanding how real-world systems behave under attack and how to design more secure applications.
+I am building foundational cybersecurity knowledge through hands-on practice and lab-based exploration, with a focus on understanding how systems behave under attack and how to design more secure applications.
 
 ---
 
@@ -267,55 +262,6 @@ I am actively building foundational knowledge in cybersecurity alongside my deve
 
 ---
 
-<details>
-<summary><h2>� Game Scripting — GTA V FiveM</h2></summary>
-
-<div align="center">
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=grand-theft-auto-v&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![CFX](https://img.shields.io/badge/CFX_Framework-FF6F00?style=for-the-badge&logoColor=white)
-![txAdmin](https://img.shields.io/badge/txAdmin-333333?style=for-the-badge&logoColor=white)
-
-</div>
-
-### 🔧 What I Do
-- ✍️ Writing **Lua scripts** for custom game modes & server-side logic
-- 🔐 Developing **permission checks** for in-game admin access control
-- 🔗 Building **Discord role sync** — moderation access linked to Discord roles
-- ⚙️ Integrations with **CFX framework** & **txAdmin** for server management
-- 🛠️ Server configuration, resource optimization & debugging
-
-### 📦 Notable Scripts
-
-| Script | Description | Status |
-|--------|-------------|--------|
-| 🔐 **Admin Permissions** | Role-based permission system with tiered admin access | ✅ Deployed |
-| 🔗 **Discord Role Sync** | Syncs Discord roles with in-game permissions automatically | ✅ Deployed |
-| 🎯 **Custom Game Modes** | Custom Lua game modes with unique mechanics & scoreboards | ✅ Deployed |
-
-</details>
-
----
-
-<details>
-<summary><h2>�🎵 Fun & Personal Interests</h2></summary>
-
-### Beyond the Terminal...
-
-- 🎵 **Music** — Lo-fi beats fuel my coding sessions; I explore genres from jazz to synthwave
-- 🎮 **Gaming** — Strategy & RPG games; love a good challenge
-- 🌍 **Travel** — Exploring new cultures and cuisines whenever I can
-
-### 🎧 Coding Soundtrack
-[![Spotify](https://img.shields.io/badge/My_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
-> *"The best code is written to lofi beats at 2 AM."* ☕🌙
-
-</details>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -331,28 +277,6 @@ I am actively building foundational knowledge in cybersecurity alongside my deve
 ---
 
 <div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Allen-cyber-techy/Allen-cyber-techy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Allen-cyber-techy/Allen-cyber-techy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Allen-cyber-techy/Allen-cyber-techy/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Quote of the Day
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-> *"The quieter you become, the more you are able to hear."* — **Kali Linux**
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
 
