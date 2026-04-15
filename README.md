@@ -11,13 +11,13 @@
 
 # 👋 Hey, I'm **Allen Sunil**
 
-### `💻 Backend-Focused Developer • 🔧 Systems Builder • 🛡️ Exploring Cybersecurity`
+### `💻 Backend-Focused Developer Transitioning into Cybersecurity`
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Allen-cyber-techy&style=for-the-badge&color=0e75b6)](https://github.com/Allen-cyber-techy)
 [![GitHub followers](https://img.shields.io/github/followers/Allen-cyber-techy?style=for-the-badge&logo=github&color=181717)](https://github.com/Allen-cyber-techy?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Allen-cyber-techy?style=for-the-badge&logo=github&color=f5c842)](https://github.com/Allen-cyber-techy?tab=repositories)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend-Focused+Developer+%7C+Systems+Builder;Exploring+Cybersecurity+%26+Secure+Design;Building+Backend+Systems+%26+Game+Servers;Master+the+build%2C+then+secure+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend-Focused+Developer;Building+Backend+Systems;Transitioning+to+Cybersecurity;Learning+Secure+Systems;Learning+%26+Exploring" alt="Typing SVG" />
 
 </div>
 
@@ -27,33 +27,33 @@
 
 ```yaml
 name: Allen Sunil
-role: Backend-Focused Developer • Systems Builder • Exploring Cybersecurity
+role: Backend Developer transitioning into Cybersecurity
 location: 📍 Mavelikara, India
-currently_working_on: Backend systems, game server architecture, security fundamentals
-learning: Network analysis, web vulnerabilities, attack simulation
+currently_working_on: Backend systems & game server architecture
+learning: Web vulnerabilities & defensive security fundamentals
 fun_fact: I debug in my dreams 🛌💭
 ```
 
 ---
 
-## 💼 Professional Technical Profile
+## 💼 Technical Profile
 
-I collaborate with a small development group under the name **Codeuxe**, where I primarily handle backend logic and system design for web and game-based projects.
+I collaborate with the development team **Codeuxe**, serving as the primary backend developer. I manage server logic, database architecture, and system design for our web and game-based projects.
 
-### 🚀 Key Projects *(Proprietary & Open Source)*
+### 🚀 Key Projects
 
 #### 🎮 FiveM / Lua Game Engineering
-Architected and developed a PvP Practice Server environment using **QB-Core** and **SQL**, leading the system design and implementation, with collaborative support for testing and debugging.
-*   **Systems Built**: Dynamic Ranking & Leaderboard, Battlepass logic, Clan/Team Battle systems, and custom Deathmatch/Open War game modes.
-*   **UI/UX**: Designed custom NUI (HTML/CSS/JS) interfaces for in-game stores and player stats.
-*   📄 **Full Documentation**: [![EGOPVP](https://img.shields.io/badge/EGOPVP-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/EGOPVP) *(Source code is private — this repo documents the full project architecture and systems)*
+I architected and developed a PvP Practice server using **QB-Core** and **SQL**. I led the backend system design and implementation, while collaborating with team members for testing.
+*   **What was built**: A dynamic ranking system, leaderboards, battlepass logic, and custom team battle game modes.
+*   **UI/UX**: Designed custom NUI (HTML/CSS/JS) interfaces for in-game stores and player statistics.
+*   📄 **Documentation**: [![EGOPVP](https://img.shields.io/badge/EGOPVP-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/EGOPVP) *(Source code is private — repository documents full architecture)*
 
-#### 🌐 Full-Stack Web Development
-*   **Live Project**: [carwashroom.com](https://carwashroom.com) – Developed collaboratively as part of the Codeuxe team.
+#### 🌐 Web Development
+*   **Live Project**: [carwashroom.com](https://carwashroom.com) – Handled the backend infrastructure collaboratively alongside frontend developers at Codeuxe.
 
 ### 📊 Technical Arsenal
 **Languages:** JavaScript, Python, Lua, SQL, HTML5, Bash
-**Tools/Environment:** QB-Core, XAMPP, Git, Linux, Vercel, Node.js  
+**Tools/Environment:** Node.js, QB-Core, Git, Linux, Vercel  
 
 > Contact: allen.sunil.3734@gmail.com
 
@@ -61,11 +61,11 @@ Architected and developed a PvP Practice Server environment using **QB-Core** an
 
 ## 🎯 Career Direction
 
-My primary goal is to build a career in cybersecurity, with a focus on secure system design and backend infrastructure.
+My goal is to transition my backend development skills into a career in cybersecurity, focusing on secure system design and infrastructure defense.
 
-I am currently enrolled in an intensive Cybersecurity and Advanced Development program at Brototype (Module 14/52), where I am building structured knowledge alongside hands-on system development.
+I am currently a student in an intensive Cybersecurity & Advanced Development program at Brototype (Module 14/52). I am building foundational security knowledge alongside hands-on system development.
 
-> *My approach is to first master how systems are built, and then understand how they can be secured and exploited.*
+> *My approach: master how systems are built, then understand how they can be secured and tested.*
 
 ---
 
@@ -129,8 +129,11 @@ I am currently enrolled in an intensive Cybersecurity and Advanced Development p
 
 ## 🚀 Current Projects
 
+*I act as the primary developer for most of these projects, handling backend logic, database architecture, and deployment, with occasional collaborative testing from my team.*
+
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
+| 🔒 **Auth Portal** | Authentication system with OTP verification & reCAPTCHA | Flask, Python, SQLAlchemy | ✅ Complete [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/Flask-Based-Login-Registration-Portal) |
 | 🌐 **Portfolio v3** | Personal portfolio with interactive 3D elements | Next.js, Three.js, Framer Motion | 🔨 In Progress |
 | 🤖 **EGO** | Ego system, YouTube alerts & moderation bot | Node.js, Discord.js, MongoDB | ✅ Live [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/EGO) |
 | 🦊 **FOX** | AutoMod, YouTube notifications & welcome system | Node.js, Discord.js, MongoDB | ✅ Live [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/FOX) |
@@ -142,6 +145,8 @@ I am currently enrolled in an intensive Cybersecurity and Advanced Development p
 
 <details>
 <summary><h2>🤖 Discord Bots Showcase</h2></summary>
+
+*I served as the **primary backend developer** for these bots, designing their core logic, database structures, and moderation features.*
 
 <div align="center">
 
@@ -217,37 +222,36 @@ I am currently enrolled in an intensive Cybersecurity and Advanced Development p
 
 ### 🔐 Current Focus
 
-I am building foundational cybersecurity knowledge through hands-on practice and lab-based exploration, with a focus on understanding how systems behave under attack and how to design more secure applications.
+I am a student building foundational cybersecurity knowledge through hands-on practice and lab-based exploration. My focus is understanding how systems behave under attack and how to write more secure code.
 
 ---
 
 ### 🔍 Areas of Learning
 
-* Web Application Security (OWASP Top 10 concepts)
+* Web Application Security basics (OWASP Top 10)
 * Network Traffic Analysis & Packet Inspection
-* Secure Coding Practices in Backend Systems
+* Secure Coding Practices for Backend Systems
 * Basic System & Application-Level Threat Awareness
 
 ---
 
 ### 🧪 Practical Exploration
 
-* Performed **basic Man-in-the-Middle (MITM) attack simulations** using **bettercap** in a controlled lab environment
-* Analyzed intercepted network traffic to understand HTTP request/response structures
-* Explored **ARP spoofing techniques** and their impact on unsecured networks
-* Gained initial understanding of how attackers intercept and manipulate data in transit
+* Simulated **basic Man-in-the-Middle (MITM) attacks** using **bettercap** in a controlled lab environment.
+* Analyzed intercepted network traffic to study HTTP request/response structures.
+* Explored **ARP spoofing techniques** to understand risks in unsecured networks.
 
-> Focused on learning attack vectors to improve defensive thinking and secure system design.
+> *I study these attack vectors to improve my defensive thinking and secure design skills.*
 
 ---
 
 ### 🧰 Tools (Learning & Practice)
 
-* **Burp Suite** – exploring web request/response interception and modification
-* **Wireshark** – basic packet capture and traffic inspection
-* **Nmap** – network scanning and service discovery
-* **Metasploit** – introductory exploitation practice in lab environments
-* **bettercap** – MITM attack simulation and network manipulation basics
+* **Burp Suite** – Exploring web request/response interception
+* **Wireshark** – Basic packet capture and network traffic study
+* **Nmap** – Introductory network scanning
+* **Metasploit** – Basic exploitation practice in lab environments
+* **bettercap** – Understanding network manipulation basics
 
 ---
 
@@ -256,7 +260,7 @@ I am building foundational cybersecurity knowledge through hands-on practice and
 * TryHackMe (Beginner Labs)
 * Hack The Box (Introductory Challenges)
 
-> Currently focused on strengthening core fundamentals before progressing into advanced penetration testing and security analysis.
+> *Currently strengthening my core fundamentals before progressing into advanced penetration testing.*
 
 </details>
 
@@ -266,7 +270,7 @@ I am building foundational cybersecurity knowledge through hands-on practice and
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/allen-sunil-7aa78a208)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-sunil-7aa78a208)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://allen-sunil.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allen.sunil.3734@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AllenSunil1)
