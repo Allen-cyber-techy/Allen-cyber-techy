@@ -114,15 +114,23 @@ I am currently pursuing structured cybersecurity training at Brototype while ind
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Allen-cyber-techy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="Allen's GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Allen-cyber-techy&theme=tokyonight&hide_border=true&border_radius=12" alt="Allen's GitHub Streak" />
+<a href="https://github.com/Allen-cyber-techy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allen-cyber-techy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&bg_color=1a1b27" alt="Allen's GitHub Stats" />
+</a>
+<a href="https://github.com/Allen-cyber-techy">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Allen-cyber-techy&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27" alt="Allen's GitHub Streak" />
+</a>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-cyber-techy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+<br/>
 
-</div>
+<a href="https://github.com/Allen-cyber-techy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-cyber-techy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&bg_color=1a1b27" alt="Top Languages" />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allen-cyber-techy&theme=tokyo-night&hide_border=true&radius=12" width="95%" alt="Contribution Graph" />
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Allen-cyber-techy&theme=tokyo-night&hide_border=true&radius=12&bg_color=1a1b27" width="95%" alt="Contribution Graph" />
+
 </div>
 
 ---
