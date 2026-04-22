@@ -63,7 +63,7 @@ I architected and developed a PvP Practice server using **QB-Core** and **SQL**.
 
 My goal is to transition my backend development skills into a career in cybersecurity, focusing on secure system design and infrastructure defense.
 
-I am currently a student in an intensive Cybersecurity & Advanced Development program at Brototype (Module 14/52). I am building foundational security knowledge alongside hands-on system development.
+I am currently pursuing structured cybersecurity training at Brototype while independently developing backend systems, automation tools, and web applications to strengthen my practical software engineering skills.
 
 > *My approach: master how systems are built, then understand how they can be secured and tested.*
 
