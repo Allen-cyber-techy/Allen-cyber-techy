@@ -113,19 +113,18 @@ I am currently pursuing structured cybersecurity training at Brototype while ind
 ## 📊 GitHub Stats
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Allen-cyber-techy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&bg_color=1a1b27" width="100%" alt="Allen's GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com/?user=Allen-cyber-techy&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27" width="100%" alt="Allen's GitHub Streak" />
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/Allen-cyber-techy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allen-cyber-techy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&bg_color=1a1b27" alt="Allen's GitHub Stats" />
-</a>
-<a href="https://github.com/Allen-cyber-techy">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Allen-cyber-techy&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27" alt="Allen's GitHub Streak" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Allen-cyber-techy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-cyber-techy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&bg_color=1a1b27" alt="Top Languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-cyber-techy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&bg_color=1a1b27" width="45%" alt="Top Languages" />
 
 <br/><br/>
 
