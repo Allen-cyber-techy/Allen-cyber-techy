@@ -114,10 +114,10 @@ I am currently pursuing structured cybersecurity training at Brototype while ind
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Allen-cyber-techy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="Allen's GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Allen-cyber-techy&theme=tokyonight&hide_border=true&border_radius=12" alt="Allen's GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Allen-cyber-techy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="Allen's GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Allen-cyber-techy&theme=tokyonight&hide_border=true&border_radius=12" alt="Allen's GitHub Streak" />
 
-<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Allen-cyber-techy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-cyber-techy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -137,7 +137,7 @@ I am currently pursuing structured cybersecurity training at Brototype while ind
 | 🌐 **Portfolio v3** | Personal portfolio with interactive 3D elements | Next.js, Three.js, Framer Motion | 🔨 In Progress |
 | 🤖 **EGO** | Ego system, YouTube alerts & moderation bot | Node.js, Discord.js, MongoDB | ✅ Live [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/EGO) |
 | 🦊 **FOX** | AutoMod, YouTube notifications & welcome system | Node.js, Discord.js, MongoDB | ✅ Live [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/FOX) |
-| ⚡ **CODEUXE** | Full-featured moderation, music & utility bot | Node.js, Discord.js, DisTube | ✅ Live [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/CODEUXE) |
+| ⚡ **CODEUXE** | Full-featured moderation, music & utility bot | Node.js, Discord.js, DisTube | ✅ Live [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/CODEUXE-MAIN) |
 | 🎫 **CODEUXE Support** | DM-based ticket system with transcripts | Node.js, Discord.js, MongoDB | ✅ Live [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Allen-cyber-techy/CODEUXE-Support) |
 | 🚗 **CarWashRoom** | Cars & service listing platform — [carwashroom.com](https://carwashroom.com) | Next.js, Firebase | ✅ Live |
 
