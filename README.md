@@ -28,7 +28,7 @@
 ```yaml
 name: Allen Sunil
 role: Backend Developer transitioning into Cybersecurity
-location: 📍 Mavelikara, India
+location: 📍 Kayamkulam, India
 currently_working_on: Backend systems & game server architecture
 learning: Web vulnerabilities & defensive security fundamentals
 fun_fact: I debug in my dreams 🛌💭
