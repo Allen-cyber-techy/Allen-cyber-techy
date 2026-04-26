@@ -28,7 +28,7 @@
 ```yaml
 name: Allen Sunil
 role: Backend Developer transitioning into Cybersecurity
-location: 📍 Kayamkulam, India
+location: 📍 Kayankulam, Kerala, India
 currently_working_on: Backend systems & game server architecture
 learning: Web vulnerabilities & defensive security fundamentals
 fun_fact: I debug in my dreams 🛌💭
@@ -116,7 +116,7 @@ I am currently pursuing structured cybersecurity training at Brototype while ind
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Allen-cyber-techy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=1800&bg_color=1a1b27" width="100%" alt="Allen's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Allen-cyber-techy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=1a1b27" width="100%" alt="Allen's GitHub Stats" />
 </td>
 <td width="50%">
 <img src="https://streak-stats.demolab.com/?user=Allen-cyber-techy&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27" width="100%" alt="Allen's GitHub Streak" />
